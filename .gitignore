@@ -1,3 +1,3 @@
 .idea/
-spotify-api/data.json
-spotify-datarequest/StreamingHistory4.json
+from_api/env.py
+from_data_request/StreamingHistory4.json
